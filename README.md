@@ -1,5 +1,7 @@
 # AWS-high-availability-cli-infrastructure
 
+Link to article: https://pramanik-85849.medium.com/high-availability-infrastructure-setup-on-aws-using-aws-cli-46a488bc3833
+
 CLI Commands to create high availability infrastructure
 
 AWS EC2, S3, EBS, Cloudfront
